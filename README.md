@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hey+There!+I'm+Fermin!+"/>
-</h1>
-<h3 align="center"> A Software Engineer student from Argentina.</h3>
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=1F86F7&size=30&center=true&vCenter=true&lines=Hey+There!+I'm+Fermin.)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ username=FerminLasarte&count_private=true&show_icons=true&theme=cobalt&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&layout=compact&show_icons=true&theme=cobalt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
