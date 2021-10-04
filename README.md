@@ -4,9 +4,9 @@
 <h3 align="center"> A Software Engineer student from Argentina.</h3>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ username=FerminLasarte&count_private=true&show_icons=true&theme=cobalt&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
