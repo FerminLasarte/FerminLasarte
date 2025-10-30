@@ -40,12 +40,16 @@
 ### Featured Projects
 
 <p align="left">
-  <a href="https://github.com/FerminLasarte/Compilador" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerminLasarte&repo=TU-REPO-DE-COMPILADORES&theme=transparent&show_owner=true" alt="Proyecto Compilador" />
+  <a href="https://github.com/FerminLasarte/DeporTurnos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerminLasarte&repo=DeporTurnos&theme=transparent&show_owner=true" alt="Flutter Online Booking App" />
   </a>
   
-  <a href="https://github.com/FerminLasarte/DeporTurnos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerminLasarte&repo=TU-REPO-DE-FLUTTER&theme=transparent&show_owner=true" alt="Proyecto Flutter App" />
+  <a href="https://github.com/vlDevelopment/app_fotografia" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlDevelopment&repo=app_fotografia&theme=transparent&show_owner=true" alt="Flutter Photography and Tourism App" />
+  </a>
+  
+  <a href="https://github.com/TomasRedolatti/ServiPronto" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomasRedolatti&repo=ServiProntoN&theme=transparent&show_owner=true" alt="Flutter Job Booking App" />
   </a>
 </p>
 
@@ -69,7 +73,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fermin Lasarte LinkedIn" height="30" width="40" />
   </a>
   
-  <a href="mailto:your-email-here@example.com" target="_blank">
+  <a href="mailto:fermin.lasarte@icloud.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
