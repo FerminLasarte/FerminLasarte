@@ -37,11 +37,25 @@
 
 ---
 
+### Featured Projects
+
+<p align="left">
+  <a href="https://github.com/FerminLasarte/Compilador" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerminLasarte&repo=TU-REPO-DE-COMPILADORES&theme=transparent&show_owner=true" alt="Proyecto Compilador" />
+  </a>
+  
+  <a href="https://github.com/FerminLasarte/DeporTurnos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerminLasarte&repo=TU-REPO-DE-FLUTTER&theme=transparent&show_owner=true" alt="Proyecto Flutter App" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=transparent" alt="Fermin Lasarte's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&layout=compact&show_icons=true&theme=transparent&hide=html" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=transparent&count_private=true&show_owner=true" alt="Fermin Lasarte's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&layout=compact&show_icons=true&theme=transparent&hide=html&count_private=true" alt="Top Langs" />
 </p>
     
 ---
@@ -55,7 +69,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fermin Lasarte LinkedIn" height="30" width="40" />
   </a>
   
-  <a href="mailto:fermin.lasarte@icloud.com" target="_blank">
+  <a href="mailto:your-email-here@example.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
