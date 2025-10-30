@@ -20,7 +20,8 @@
   <a href="https://flutter.dev" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   </a>
-  <br> <a href="https://code.visualstudio.com/" target="_blank">
+  <br>
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
@@ -39,9 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=cobalt" alt="Fermin Lasarte's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&layout=compact&show_icons=true&theme=cobalt&hide=html" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerminLasarte&show_icons=true&theme=transparent" alt="Fermin Lasarte's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminLasarte&layout=compact&show_icons=true&theme=transparent&hide=html" alt="Top Langs" />
 </p>
     
 ---
@@ -55,7 +55,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fermin Lasarte LinkedIn" height="30" width="40" />
   </a>
   
-  <a href="mailto:your-email-here@example.com" target="_blank">
+  <a href="mailto:fermin.lasarte@icloud.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
