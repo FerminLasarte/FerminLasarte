@@ -4,7 +4,7 @@
 
 <br>
 
-## About Me
+## 🤖 About Me
 <p align="justify">
   I'm an advanced <strong>Systems Engineering student at UNICEN</strong> with experience in software and mobile application development. I specialize in problem-solving, programming, and teamwork. I am looking to apply my skills to develop innovative technological solutions and continue growing professionally.
 </p>
@@ -15,14 +15,14 @@
 
 <br>
 
-## My Tech Slack
+## 💻 My Tech Slack
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,clion,c,css,cpp,dart,docker,firebase,supabase,flutter,git,github,gitlab,html,css,idea,java,js,linux,mongodb,notion,postgres,py,pycharm,r,ubuntu,unity,vscode,ps,pr,ai)](https://skillicons.dev)
 
 <br>
 
-### 📫 Contact Me
+## 🚀 Contact Me
 
 <br>
 
