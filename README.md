@@ -23,17 +23,6 @@
 <br>
 
 ### 📫 Contact Me
-<p align="left">
-  You can find me at:
-  <br><br>
-  <a href="https://www.linkedin.com/in/fermin-lasarte-15873a203/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fermin Lasarte LinkedIn" height="30" width="40" />
-  </a>
-  
-  <a href="mailto:fermin.lasarte@icloud.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-  </a>
-</p>
 
 <br>
 
