@@ -22,7 +22,7 @@
 
 <br>
 
-### 📫 Connect With Me
+### 📫 Contact Me
 <p align="left">
   You can find me at:
   <br><br>
@@ -34,3 +34,10 @@
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
+
+<br>
+
+[![ferminlasarte](https://img.icons8.com/?size=100&id=13930&format=png&color=000000 "ferminlasarte")](https://www.linkedin.com/in/ferminlasarte/)
+[![fermin.lasarte@icloud.com](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 "fermin.lasarte@icloud.com")](mailto:fermin.lasarte@icloud.com)
+[![+91121711289](https://img.icons8.com/?size=100&id=16713&format=png&color=000000 "+5491121711289")](https://wa.me/5491121711289)
+<br>
