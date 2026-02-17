@@ -19,7 +19,7 @@
 ## 💻 My Tech Stack
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,clion,c,css,cpp,dart,docker,firebase,supabase,flutter,git,github,gitlab,html,css,idea,java,js,linux,mongodb,notion,postgres,py,pycharm,r,ubuntu,unity,vscode,ps,pr,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,clion,c,cpp,java,dart,docker,firebase,supabase,flutter,git,github,gitlab,html,css,idea,js,linux,mongodb,notion,postgres,py,pycharm,r,ubuntu,unity,vscode,ps,pr,ai)](https://skillicons.dev)
 
 <br>
 
