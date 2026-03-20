@@ -11,7 +11,7 @@
 
 - 🎓 Studied *System Engineer* at [UNICEN](https://www.unicen.edu.ar)
 - 🎓 Studied *Program Analyzer* at [UNICEN](https://www.unicen.edu.ar)
-- 💻 My [Portfolio](https://ferminlasarte.github.io/Portfolio/)
+- 💻 My [Portfolio](https://ferminlasarte.github.io/portfolio-fermin-lasarte/)
 - 🏡 Lives in *Tandil, Buenos Aires, Argentina*
 
 <br>
