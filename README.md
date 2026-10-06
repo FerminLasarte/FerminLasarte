@@ -9,7 +9,7 @@
   I'm an advanced <strong>Systems Engineering student at UNICEN</strong> with experience in software and mobile application development. I specialize in problem-solving, programming, and teamwork. I am looking to apply my skills to develop innovative technological solutions and continue growing professionally.
 </p>
 
-- 🎓 Studied *System Engineer* at [UNICEN](https://www.unicen.edu.ar)
+- 🎓 Advanced *Systems Engineering* student at [UNICEN](https://www.unicen.edu.ar) (graduating Dec. 2026)
 - 🎓 Studied *Programmer Analyst* at [UNICEN](https://www.unicen.edu.ar)
 - 💻 My [Portfolio](https://portfolio-fermin-lasarte.vercel.app)
 - 🏡 Lives in *Buenos Aires, Argentina*
